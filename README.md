@@ -41,10 +41,10 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 
-## Developers
+## Developer
   <div align="center">
     
-  [![Amalser](<img src=https://www.linkpicture.com/q/1629301947129.jpg>
+  [![CYBER UDAYIPP](<img src=https://www.linkpicture.com/q/1629301947129.jpg>
  https://github.com/CYBERUDAYIPP |  
 ----|
 [CYBER UDAYIPP](https://github.com/CYBERUDAYIPP)  |
