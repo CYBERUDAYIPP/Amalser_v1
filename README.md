@@ -47,7 +47,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   [![Amalser](<img src=https://www.linkpicture.com/q/1629301947129.jpg>
  https://github.com/CYBERUDAYIPP |  
 ----|
-[Its_me_Amal](https://github.com/Amalser_v1)  |
+[CYBER UDAYIPP](https://github.com/CYBERUDAYIPP)  |
 Base, Bug Fixes, Modules | 
   
     
