@@ -30,7 +30,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Amal
+### CYBER UDAYIPP ###
 
 
 ### ⚠️ Warning! 
