@@ -1,6 +1,6 @@
 /* Copyright (C) 2020 Yusuf Usnta.
-RECODDED BY AFNANPPLK
-Plk  
+RECODDED BY CYBER UDAYIPP
+SARASU
 */
 
 const fs = require("fs");
