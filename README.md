@@ -2,7 +2,7 @@
 cyber_udayipp
 
 <div align="center">
-  <img src=https://images.app.goo.gl/dddaUpZyDG7skY3M >
+  <img src=https://www.linkpicture.com/q/1629301947129.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
