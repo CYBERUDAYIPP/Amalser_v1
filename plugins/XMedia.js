@@ -1,6 +1,6 @@
-/* Codded by @phaticusthiccy
-re-editted by afnanplk
-PINKY V2
+/* Codded by @CYBERUDAYIPP 
+re-editted by CYBER UDAYIPP 
+SARASU V1
 
 */
 
