@@ -1,8 +1,8 @@
 <div align="center">
-cyber_udayipp
+SARASU BOT
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/1629301947129.jpg>
+  <img src=https://www.linkpicture.com/q/20210819_142946.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
