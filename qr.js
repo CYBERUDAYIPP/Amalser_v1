@@ -1,5 +1,5 @@
 /* Copyright (C) 2020 Yugsuf Usta.
-PINKY V2
+SARASU V1
 */
 
 const chalk = require('chalk');
