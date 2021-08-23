@@ -84,9 +84,9 @@ faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
 
-[Home Page](https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+[YouTube](https://www.youtube.com/c/CYBERUDAYIPP)
 
-[Thiccy's Blog](https://phaticusthiccy.jimdofree.com)
+[Blog](https://cyberudayipp.blogspot.com)
 
 ### Warning ⚠️
 
@@ -101,9 +101,9 @@ It is your responsibility to use these codes. We are not responsible for any bad
 
 ```json
 {
-  "user_github": "https://github.com/dogubk",
-  "user_workmail": "doguhanonder34@gmail.com",
-  "user_publicmail": "dohuhanz@gmail.com"
+  "user_github": "https://github.com/CYBERUDAYIPP",
+  "user_workmail": "Irshadmohammed741@gmail.com",
+  "user_publicmail": "Irshadmohammed741@gmail.com"
   },
   "user_permissions" {
     "allow": ["share, usage, support"],
